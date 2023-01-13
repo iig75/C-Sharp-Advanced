@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.exe
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.deps.json
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.runtimeconfig.json
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.dll
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.pdb
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.AssemblyInfo.cs
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.dll
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.pdb
+C:\Users\iig\source\repos\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.genruntimeconfig.cache
