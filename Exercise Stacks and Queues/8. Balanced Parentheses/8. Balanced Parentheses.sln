@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Balanced Parentheses", "8. Balanced Parentheses\8. Balanced Parentheses.csproj", "{026FDCB7-16DF-4F19-AF8A-3AF0D4E75D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026FDCB7-16DF-4F19-AF8A-3AF0D4E75D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026FDCB7-16DF-4F19-AF8A-3AF0D4E75D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026FDCB7-16DF-4F19-AF8A-3AF0D4E75D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026FDCB7-16DF-4F19-AF8A-3AF0D4E75D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593E3DD7-10CF-433D-8D5D-B3435559AE62}
+	EndGlobalSection
+EndGlobal
