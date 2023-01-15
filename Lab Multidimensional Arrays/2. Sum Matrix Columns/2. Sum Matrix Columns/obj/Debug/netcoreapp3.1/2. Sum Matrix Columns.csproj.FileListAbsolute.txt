@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\iig\source\repos\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.genruntimeconfig.cache
