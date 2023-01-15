@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.exe
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.deps.json
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.json
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+C:\Users\iig\source\repos\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.genruntimeconfig.cache
