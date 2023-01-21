@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.exe
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.deps.json
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.json
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.dev.json
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.dll
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.pdb
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfo.cs
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.dll
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.pdb
+C:\Users\iig\source\repos\3. Periodic Table\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.genruntimeconfig.cache
