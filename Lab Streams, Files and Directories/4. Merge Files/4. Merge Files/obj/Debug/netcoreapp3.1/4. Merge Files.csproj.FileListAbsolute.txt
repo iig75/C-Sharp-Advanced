@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.exe
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.deps.json
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.json
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.dll
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.pdb
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.dll
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.pdb
+C:\Users\iig\source\repos\4. Merge Files\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.genruntimeconfig.cache
