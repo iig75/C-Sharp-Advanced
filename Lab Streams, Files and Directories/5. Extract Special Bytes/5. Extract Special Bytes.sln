@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Extract Special Bytes", "5. Extract Special Bytes\5. Extract Special Bytes.csproj", "{4DAC0093-C421-4994-969F-FFE5DA44AF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAC0093-C421-4994-969F-FFE5DA44AF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAC0093-C421-4994-969F-FFE5DA44AF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAC0093-C421-4994-969F-FFE5DA44AF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAC0093-C421-4994-969F-FFE5DA44AF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6377BA4-1EA4-41FF-86FB-9485F84E142F}
+	EndGlobalSection
+EndGlobal
