@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Split - Merge Binary Files", "6. Split - Merge Binary Files\6. Split - Merge Binary Files.csproj", "{B811F355-6D33-4DF3-84D5-10D9095507B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B811F355-6D33-4DF3-84D5-10D9095507B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B811F355-6D33-4DF3-84D5-10D9095507B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B811F355-6D33-4DF3-84D5-10D9095507B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B811F355-6D33-4DF3-84D5-10D9095507B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D079517-7758-479A-8700-67199E1FC20C}
+	EndGlobalSection
+EndGlobal
