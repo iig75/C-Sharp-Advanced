@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\bin\Debug\netcoreapp3.1\3. Copy Binary File.exe
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\bin\Debug\netcoreapp3.1\3. Copy Binary File.deps.json
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\bin\Debug\netcoreapp3.1\3. Copy Binary File.runtimeconfig.json
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\bin\Debug\netcoreapp3.1\3. Copy Binary File.runtimeconfig.dev.json
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\bin\Debug\netcoreapp3.1\3. Copy Binary File.dll
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\bin\Debug\netcoreapp3.1\3. Copy Binary File.pdb
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.AssemblyInfo.cs
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.dll
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.pdb
+C:\Users\iig\source\repos\3. Copy Binary File\3. Copy Binary File\obj\Debug\netcoreapp3.1\3. Copy Binary File.genruntimeconfig.cache
