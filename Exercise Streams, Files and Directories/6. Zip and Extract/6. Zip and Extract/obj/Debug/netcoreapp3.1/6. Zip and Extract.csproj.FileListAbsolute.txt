@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.exe
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.deps.json
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.runtimeconfig.json
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.runtimeconfig.dev.json
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.dll
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.pdb
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.AssemblyInfo.cs
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.dll
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.pdb
+C:\Users\iig\source\repos\6. Zip and Extract\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.genruntimeconfig.cache
