@@ -1,0 +1,14 @@
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.exe
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.deps.json
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.runtimeconfig.json
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.runtimeconfig.dev.json
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.dll
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.pdb
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.AssemblyInfo.cs
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.dll
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.pdb
+C:\Users\iig\source\repos\5. Copy Directory\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.genruntimeconfig.cache
