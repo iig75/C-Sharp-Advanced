@@ -1,0 +1,15 @@
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\bin\Debug\net6.0\4. Add VAT.exe
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\bin\Debug\net6.0\4. Add VAT.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\bin\Debug\net6.0\4. Add VAT.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\bin\Debug\net6.0\4. Add VAT.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\bin\Debug\net6.0\4. Add VAT.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\refint\4. Add VAT.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\4. Add VAT.genruntimeconfig.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Add VAT\4. Add VAT\obj\Debug\net6.0\ref\4. Add VAT.dll
