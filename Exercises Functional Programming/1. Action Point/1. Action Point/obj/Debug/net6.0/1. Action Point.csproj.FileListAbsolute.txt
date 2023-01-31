@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\bin\Debug\net6.0\1. Action Point.exe
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\bin\Debug\net6.0\1. Action Point.deps.json
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\bin\Debug\net6.0\1. Action Point.runtimeconfig.json
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\bin\Debug\net6.0\1. Action Point.dll
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\bin\Debug\net6.0\1. Action Point.pdb
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.AssemblyInfo.cs
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.dll
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\refint\1. Action Point.dll
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.pdb
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\1. Action Point.genruntimeconfig.cache
+C:\Users\iig\source\repos\1. Action Point\1. Action Point\obj\Debug\net6.0\ref\1. Action Point.dll
