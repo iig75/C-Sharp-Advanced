@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.exe
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.deps.json
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.runtimeconfig.json
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.dll
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.pdb
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.AssemblyInfo.cs
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.dll
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\refint\7. Predicate for Names.dll
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.pdb
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.genruntimeconfig.cache
+C:\Users\iig\source\repos\7. Predicate for Names\7. Predicate for Names\obj\Debug\net6.0\ref\7. Predicate for Names.dll
