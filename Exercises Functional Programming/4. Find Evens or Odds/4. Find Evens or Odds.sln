@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Find Evens or Odds", "4. Find Evens or Odds\4. Find Evens or Odds.csproj", "{675CF080-CA1F-4FDF-815F-05265A2D582F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675CF080-CA1F-4FDF-815F-05265A2D582F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675CF080-CA1F-4FDF-815F-05265A2D582F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675CF080-CA1F-4FDF-815F-05265A2D582F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675CF080-CA1F-4FDF-815F-05265A2D582F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA74CB51-BA2D-415F-B797-2B9B60A5ACF9}
+	EndGlobalSection
+EndGlobal
