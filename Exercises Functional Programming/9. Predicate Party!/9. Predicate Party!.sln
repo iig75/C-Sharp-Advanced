@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Predicate Party!", "9. Predicate Party!\9. Predicate Party!.csproj", "{82A9E211-E4C5-49FC-A578-D39204B47FD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A9E211-E4C5-49FC-A578-D39204B47FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A9E211-E4C5-49FC-A578-D39204B47FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A9E211-E4C5-49FC-A578-D39204B47FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A9E211-E4C5-49FC-A578-D39204B47FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F65AC3A-5577-4775-92DD-A8997C65C11E}
+	EndGlobalSection
+EndGlobal
