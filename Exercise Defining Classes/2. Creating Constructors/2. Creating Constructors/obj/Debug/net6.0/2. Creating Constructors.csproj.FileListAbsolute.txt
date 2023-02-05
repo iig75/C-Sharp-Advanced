@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\bin\Debug\net6.0\2. Creating Constructors.exe
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\bin\Debug\net6.0\2. Creating Constructors.deps.json
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\bin\Debug\net6.0\2. Creating Constructors.runtimeconfig.json
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\bin\Debug\net6.0\2. Creating Constructors.dll
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\bin\Debug\net6.0\2. Creating Constructors.pdb
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.AssemblyInfo.cs
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.dll
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\refint\2. Creating Constructors.dll
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.pdb
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\2. Creating Constructors.genruntimeconfig.cache
+C:\Users\iig\source\repos\2. Creating Constructors\2. Creating Constructors\obj\Debug\net6.0\ref\2. Creating Constructors.dll
